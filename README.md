@@ -27,12 +27,7 @@ Integration with Supabase vector store for document retrieval
 
 ### Project Structure    
 
-├── Agentic_rag.py             # Core Agentic RAG pipeline with evaluation
-├── Agentic_rag_streamlit.py   # Streamlit app for interactive Q&A
-├── ingest.py                  # Script to ingest documents into Supabase
-├── requirements.txt           # Python dependencies
-├── README.md   
-
+<img width="598" height="167" alt="image" src="https://github.com/user-attachments/assets/d0775585-b9a1-46dd-9dcb-5d4623ee6eeb" />
 
 ### Tech Stack
 
