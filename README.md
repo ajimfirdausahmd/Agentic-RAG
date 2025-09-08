@@ -31,8 +31,8 @@ Integration with Supabase vector store for document retrieval
 
 ### Tech Stack
 
-LangChain → Agent orchestration
-Supabase → Vector database
-OpenAI → GPT-4o + embeddings
-Ragas → Evaluation framework
-Streamlit → Interactive UI
+* LangChain → Agent orchestration
+* Supabase → Vector database
+* OpenAI → GPT-4o + embeddings
+* Ragas → Evaluation framework
+* Streamlit → Interactive UI
